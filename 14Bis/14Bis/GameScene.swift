@@ -3,7 +3,7 @@
 //  14Bis
 //
 //  Created by Murilo Erhardt on 19/05/15.
-//  Copyright (c) 2015 Murilo Erhardt. All rights reserved.
+//  
 //
 
 import SpriteKit;
